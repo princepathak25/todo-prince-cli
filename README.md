@@ -1,6 +1,7 @@
 # CLI To-Do App
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-A sleek Python CLI project that helps you manage your daily tasks.
+A Python CLI project that helps you manage your daily tasks.
 No advanced libraries. Just vibes, files, and functionality.
 
 ---
@@ -13,6 +14,12 @@ No advanced libraries. Just vibes, files, and functionality.
 - Auto-saves to `tasks.txt` locally  
 - `time.sleep()` for UX flow
   
+---
+
+## Tech Stack
+
+- Python 3.x 
+
 ---
 
 ## How to Run
@@ -47,24 +54,22 @@ python todo-prince.py
 
 ---
 
-## Built With
-
-- Python 3.x  
-- Local file storage (no JSON/DB)  
-- `time` module  
-- Focused logic with loops and lists
-
----
-
 ## Project Structure
 
 ```
-todo-prince-cli
+todo-cli
  ┣ todo-prince.py
  ┗ README.md
  ┗ .gitignore
 
 ```
+
+---
+
+## Connect with Me
+
+- **GitHub:** https://github.com/princepathak25
+- **LinkedIn:** https://www.linkedin.com/in/prince-pathak-142651373
 
 ---
 
