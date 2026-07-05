@@ -63,7 +63,7 @@ todo-prince-cli
  ┣ todo-prince.py
  ┗ README.md
  ┗ .gitignore
- ┗ LICENSE
+
 ```
 
 ---
