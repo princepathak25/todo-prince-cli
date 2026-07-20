@@ -60,7 +60,6 @@ python todo-prince.py
 todo-cli
  ┣ todo-prince.py
  ┗ README.md
- ┗ .gitignore
 
 ```
 
