@@ -12,7 +12,6 @@ No advanced libraries. Just vibes, files, and functionality.
 - Mark tasks as completed  
 - Delete tasks with ease  
 - Auto-saves to `tasks.txt` locally  
-- `time.sleep()` for UX flow
   
 ---
 
